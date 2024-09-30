@@ -1,9 +1,7 @@
-<<<<<<< HEAD
+
 import projectImage1 from "../images/project1.png";
 import projectImage2 from "../images/project2.png";
 
-=======
->>>>>>> d5ad6726c713243bb69193c253a7e1c9282544b9
 export const Bio = {
   name: "Sakshi Pawar",
   roles: [
@@ -203,11 +201,7 @@ export const projects = [
     date: "Sep 2024",
     description:
       "Crafted a dynamic personal portfolio website using React.js, TailwindCSS, and Framer Motion, effectively showcasing my frontend development skills and design expertise.Prioritized a seamless user experience with a clean, professional layout that emphasizes usability andaccessibility across all devices.Showcased a selection of projects and experiences in web development and design, articulating my skills and passion for creating intuitive and functional user interfaces.",
-<<<<<<< HEAD
       image: projectImage1,
-=======
-      image: "../images/project1.png",
->>>>>>> d5ad6726c713243bb69193c253a7e1c9282544b9
 
     tags: [
       "HTML,",
@@ -222,7 +216,6 @@ export const projects = [
   },
   {
     id: 0,
-<<<<<<< HEAD
     title: "IPL Team Website Design",
     date: "June 2024",
     description:
@@ -231,16 +224,6 @@ export const projects = [
 
     tags: ["Figma", "Prototyping"],
     category: "web design",
-=======
-    title: "Podstream",
-    date: "Apr 2023 - May 2023",
-    description:
-      "Engineered an engaging IPL team website with a strong emphasis on enhancing user experience through intuitive navigation and visually appealing layouts.Applied responsive design principles to ensure seamless accessibility across various devices, catering to a diverse audience of passionate cricket fans. Collaborated with cross-functional teams to gather requirements and integrate feedback, successfully delivering a cohesive digital platform that eectively showcases team information and updates.",
-      image: "public\project2.png",
-
-    tags: ["Figma", "Prototyping", "Node Js", "Express Js", "Redux"],
-    category: "web app",
->>>>>>> d5ad6726c713243bb69193c253a7e1c9282544b9
     github: "https://github.com/rishavchanda/Podstream",
     webapp: "https://podstream.netlify.app/",
    
