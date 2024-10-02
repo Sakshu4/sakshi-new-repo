@@ -211,7 +211,7 @@ export const projects = [
       
     ],
     
-    github: "https://github.com/rishavchanda/Trackify",
+    github: "https://github.com/Sakshu4/sakshi-new-repo",
   
   },
   {
@@ -224,8 +224,8 @@ export const projects = [
 
     tags: ["Figma", "Prototyping"],
     category: "web design",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
+    github: "https://www.figma.com/design/ORT86Dl7G9yYA77m3EThQx/Untitled?node-id=0-1&node-type=canvas&t=FTsR6WOouNiomKlL-0",
+    webapp: "https://www.figma.com/proto/ORT86Dl7G9yYA77m3EThQx/Untitled?node-id=2-2&node-type=frame&t=Y6BaPy24kWl7EPSW-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2",
    
   },
 ];
